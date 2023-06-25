@@ -9,8 +9,8 @@ The automotive industry is constantly evolving with the rapid integration of ele
 
 In this case study, we will focus on the design of the functional safety concept for the Automotive System on Chip (SoC) that is specifically intended to meet the ISO 26262 criteria.
 
-![Image text] (/Images/Picture1.png)
+![Image text](/Images/Picture1.png)
 
 This project presents the design and implementation of a functionally safe automotive SoC. The SoC was designed using advanced safety mechanisms and design techniques to meet the stringent safety requirements of modern vehicles. The paper will provide a detailed description of the design process, the selection of safety mechanisms, and the integration of these mechanisms into the SoC design.
 
-![Image text] (/Images/Picture2.png)
+![Image text](/Images/Picture2.png)
