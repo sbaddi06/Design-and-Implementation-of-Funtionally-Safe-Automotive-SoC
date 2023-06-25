@@ -6,6 +6,7 @@ The automotive industry is constantly evolving with the rapid integration of ele
 1. Vehicle level.
 2. Component/ECU level and
 3. Chipset/SoC level.
+
 In this case study, we will focus on the design of the functional safety concept for the Automotive System on Chip (SoC) that is specifically intended to meet the ISO 26262 criteria.
 
 ![Image text](/Images/Picture1.png)
